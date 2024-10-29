@@ -194,4 +194,4 @@ int main()
 ![378744262-17af7598-3a02-4122-871f-b019118d54b1](https://github.com/user-attachments/assets/c6cc8ceb-2578-4290-9e29-b7e462f64c2e)
 
 ## RESULT:
-Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took ______________time and host took ___________time.
+Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.122351sec time and host took 0.000216sec time.
